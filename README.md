@@ -77,5 +77,5 @@ graph LR
 
 ## 📂 Project Files
 - `superstore_analysis.sql` – Full SQL scripts  
-- `dashboard.pbix` – Power BI file  
+- `superstore_dashboard.pbix` – Power BI file  
 - `superstore.csv` - csv file
