@@ -60,14 +60,6 @@ Comprehensive retail sales data analysis to:
 - Customer RFM analysis  
 - Product segment details  
 
-### Visualizations:
-```mermaid
-graph LR
-    A[Home Page] --> B[Sales Analysis]
-    A --> C[Geographic Performance]
-    A --> D[Customer Analysis]
-```
-
 ## 📌 Strategic Recommendations
 - Expand **furniture** offering (top category)  
 - Leverage **Q2 seasonality**  
