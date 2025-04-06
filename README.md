@@ -55,8 +55,7 @@ Comprehensive retail sales data analysis to:
 ## 📊 Power BI Dashboard
 
 ### Key Features:
-- Global KPI overview  
-- Interactive geographic map  
+- Global KPI overview    
 - Customer RFM analysis  
 - Product segment details  
 
